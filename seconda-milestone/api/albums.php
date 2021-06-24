@@ -56,6 +56,27 @@ $musicCollections = [
         'author' => 'Michael Jacjson',
         'genre' => 'Pop',
         'year' => '1987',
+    ],
+    [
+        'poster' => 'https://m.media-amazon.com/images/I/81eNi4D79fL._SS500_.jpg',
+        'title' => 'Buoni o cattivi',
+        'author' => 'Vasco Rossi',
+        'genre' => 'Pop',
+        'year' => '2017',
+    ],
+    [
+        'poster' => 'https://eurofestivalitalia.net/wp-content/uploads/2021/02/Elena-Tsagrinou-%E2%80%93-El-Diablo.jpg',
+        'title' => 'El Diablo',
+        'author' => 'Elena Tsagrinou',
+        'genre' => 'Metal',
+        'year' => '2021',
+    ],
+    [
+        'poster' => 'https://www.serendeepity.net/wp-content/uploads/2021/05/prz-wishmaker.jpg',
+        'title' => 'PRZ',
+        'author' => 'Wishmaker',
+        'genre' => 'Metal',
+        'year' => '2021',
     ]
 ];
 header('Content-Type: application/json');
