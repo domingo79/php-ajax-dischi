@@ -4,8 +4,12 @@
             <h1><?= $title ?></h1>
         </div>
         <div class="serch">
-            <input type="text" name="generi" id="generi">
-            <button type="submit">Cerca</button>
+            <label for="">Seleziona genere</label>
+            <select name="" id="">
+                <option disabled value="">Seleziona uno.</option>
+                <option value=""></option>
+            </select>
+
         </div>
 
     </nav>

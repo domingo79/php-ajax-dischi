@@ -18,10 +18,11 @@ nav
     height: 10vh;
     margin: 0 auto;
 }
-nav h1
+nav > h1
 {
     color: #fff;
     font-size: 3rem;
+    margin-left: 9rem;
 }
 .card
 {
